@@ -1,4 +1,4 @@
-# Financial Analytics
+# Financial Statement Analysis
 
 ## 📌 Project Overview
 The company is reviewing financial reports from September 2013 through the end of 2014 to assess the feasibility of meeting its 2015 targets, which project revenue of $39.58 million and a net profit of $16.65 million. This project analyzes whether these targets are achievable or not based on the company's historical financial data, it examines customer distribution, production cost and marketing cost to identify areas for optimization or evaluation in pursuit of the projected goals. The project aims to assist stakeholders in making data driven strategic decisions to maximize the company's potential.
